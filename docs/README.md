@@ -32,3 +32,4 @@ Use this folder as the GitHub Pages source:
 
 - Branch: `main`
 - Folder: `/docs`
+Deployment retry: 2026-07-05
